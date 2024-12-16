@@ -12,7 +12,7 @@ build/
 *.egg-info
 
 # virtual environments
-dlFrameEnv/
+panopEnv/
 
 # Environment / configuration files
 .idea/
